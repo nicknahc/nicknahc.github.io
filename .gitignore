@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Build output
+bundle.js
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Build system specific files
+dist/
+out/
+build/
